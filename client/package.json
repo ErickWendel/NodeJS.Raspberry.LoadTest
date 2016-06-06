@@ -1,0 +1,17 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stress-insert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "async": "^2.0.0-rc.5",
+    "grunt": "^1.0.1",
+    "loadtest": "^1.4.0",
+    "siege": "^0.2.0"
+  }
+}
